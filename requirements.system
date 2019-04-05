@@ -1,0 +1,6 @@
+git
+samba
+samba-common-bin
+libjpeg-dev
+zlib1g-dev
+python3-pip
